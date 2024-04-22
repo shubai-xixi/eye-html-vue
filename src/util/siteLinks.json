@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "Blog",
+    "name": "一键看病",
+    "link": "http://localhost:5173/rec"
+  },
+  {
+    "icon": "Cloud",
+    "name": "云端问诊",
+    "link": "http://localhost:5173/rec"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "知识音频",
+    "link": "http://localhost:5173/rec"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "http://localhost:5173/rec"
+  },
+  {
+    "icon": "Book",
+    "name": "护眼手册",
+    "link": "http://localhost:5173/rec"
+  },
+  {
+    "icon": "Fire",
+    "name": "热门知识",
+    "link": "http://localhost:5173/rec"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "病友论坛",
+    "link": "http://localhost:5173/rec"
+  }
+]
